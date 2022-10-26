@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("retest\n");
+    printf("Test Augustin\n");
     return 0;
 }
 
